@@ -1,0 +1,80 @@
+body {
+    background-color: #2B2D42;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.login-container {
+    background-color: #1C1C1E;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+    color: white;
+}
+.fa-brands{
+    color: rgb(#f9ce34, #ee2a7b, #6228d7);
+   
+}
+
+.logo img {
+    width: 80px;
+    margin-bottom: 20px;
+}
+
+.language {
+    margin-bottom: 10px;
+}
+
+.input-field {
+    width: 100%;
+    padding: 5px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #3C3C3C;
+    background-color: #2C2C2E;
+    color: white;
+}
+
+.login-button {
+    width: 100%;
+    padding: 10px;
+    margin-left: 5px;
+    margin-top: 0px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgba(64, 102, 240, 0.977);
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.forgot-password {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    color: #007BFF;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.create-account {
+    width: 100%;
+    padding: 10px;
+    margin-left: 5px;
+    margin-top: 20px;
+    border-radius:20px;
+    border: 1px solid #307ddbdf;
+    background-color: #2C2C2E;
+    color: #307ddbdf;
+    cursor: pointer;
+}
+
+.meta-logo w {
+    width: 40px;
+    margin-top: 30px;
+}
